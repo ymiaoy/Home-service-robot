@@ -13,5 +13,18 @@
       catkin_make
       
 ## test 
-   ./test_slam.sh
+ 
+      cd scripts
+      ./test_navigation.sh
+      
+      or
+      ./test_slam.sh
+      
+      or
+      ./pick_objects.sh
+      
+      or
+      ./add_markers.sh
+      
+      
 
